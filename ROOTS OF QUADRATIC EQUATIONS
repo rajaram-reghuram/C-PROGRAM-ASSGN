@@ -4,7 +4,7 @@
 #include <math.h>
 
 void main()
-{
+	{
    int a,b,c,d;
    float x1,x2;
  
@@ -29,4 +29,4 @@ void main()
 	}
 	else
 	    printf("Root are imaginary.\nNo Solution. \n");
-}
+	}
