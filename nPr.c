@@ -1,5 +1,5 @@
 /*           nPr       */
- */
+ 
 #include <stdio.h>
 int fact(int); 
 void main()
